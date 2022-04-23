@@ -40,7 +40,7 @@ def JogadorJoga():
                 c = int(input("Coluna..."))
             velha[l][c]="X"
             quemJoga = 1 #mudança teste 
-            jogadas = 1
+            jogadas += 1
         except:
             print("linha e/ou coluna inválida ")
 
@@ -96,7 +96,7 @@ def verificarVitoria():
             ic+=1
         if(vitoria!="n"):
             break
-        #verifica diagonal 01 
+        #verifica diagonal 1 
         soma = 0
         idig=0
         while idig<3:
