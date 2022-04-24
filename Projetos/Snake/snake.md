@@ -12,3 +12,15 @@ onde será posicionada no quadrado.
 a questão implemetaremos a função on_grid_random que resolverá esse problema. 
 - Caso o score não inicialize , apenas com o py init , usar pygame.font.init()
 
+
+## Implementações Futuras 
+
+- Game Over 
+- Levels 
+- Levels - aumento de velocidade 
+- Levels - Obstáculoas 
+- Player 2
+- Score Duplo 
+- Placar de Vitórias 
+- Placar de lideres  
+
