@@ -23,4 +23,5 @@ a questão implemetaremos a função on_grid_random que resolverá esse problema
 - Score Duplo 
 - Placar de Vitórias 
 - Placar de lideres  
+- Vitória
 
