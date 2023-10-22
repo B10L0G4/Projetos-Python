@@ -1,5 +1,6 @@
 # 1- criar ambiente virtual - python -m venv ./env (cria o ambiente virtual)
 # > > 2- ativar o ambiente virtual - **source ./env/Scripts/activate** (ativa o ambiente virtual no bash)
+# on mac - source env/bin/activate
 # > > 2.1 - ativar o ambinete vitual no windows - **.\env\Scripts\Activate** (ativa o ambiente virtual no cmd)
 # > > 3- desativar o ambiente virtual - deactivate (desativa o ambiente virtual no bash)
 # > > Desenvolvimento Web com Python , Django ou Flask
